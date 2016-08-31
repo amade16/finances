@@ -1,6 +1,6 @@
 /build
 /WebContent/WEB-INF/lib
-.gitignore
+/.gitignore
 /settings
-.classpath
-.project
+/.classpath
+/.project
